@@ -49,9 +49,9 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 - Email: toheedullah002@gmail.com
 
 ### ✨ Fun Facts
-- I’m currently spending most of my day in bed using my mobile for social media. 📱
-- Always looking for interesting and unique project ideas to work on!
-
+- I often get lost in deep rabbit holes on the internet, discovering cool tech trends and innovations. 🌐
+- I’m a night owl who enjoys solving coding challenges while everyone else is asleep. 🌙
+  
 ---
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
