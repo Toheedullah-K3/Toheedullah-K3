@@ -4,10 +4,6 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toheed%20Ullah%20Khan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toheed-ullah-khanx/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40t_o_h_e_e_d__-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/t_o_h_e_e_d__)
-[![Email](https://img.shields.io/badge/Email-toheedullah002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:toheedullah002@gmail.com)
-
 ### 🔧 Tech Stack
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs
@@ -35,6 +31,8 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 ### 📊 GitHub Stats
 ![Toheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toheedullah-K3&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toheedullah-K3&theme=radical)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Toheedullah-K3&theme=radical)
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/toheed-ullah-khanx/)
