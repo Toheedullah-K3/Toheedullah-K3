@@ -4,6 +4,8 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=compact&theme=radical)
+
 ### 🔧 Tech Stack
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -32,7 +34,6 @@ I am currently looking for new challenges where I can apply my MERN stack expert
   - **Description:** CarConnect is an advanced showroom management system engineered to optimize showroom operations. Utilizing the MERN stack, the application features a high-performance backend with Node.js and Express.js, paired with a responsive React frontend. CarConnect offers comprehensive vehicle inventory management, customer relationship tracking, and integrated analytics, all powered by a MongoDB database. This project exemplifies modern web development practices, including state management, API integration, and modular architecture.
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toheedullah-K3&theme=radical)
 
 ### 🌐 Connect with Me
