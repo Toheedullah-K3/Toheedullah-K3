@@ -36,7 +36,7 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toheedullah-K3&theme=radical&hide_border=true" alt="GitHub Streak" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=donut-vertical" alt="Top Languages" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" width="35%">
 </div>
 
 ### 🌐 Connect with Me
