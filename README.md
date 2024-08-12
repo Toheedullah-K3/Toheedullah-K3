@@ -4,7 +4,7 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
-![Coding GIF](https://media.giphy.com/media/1hLoxDdA1AwQowT6k9/giphy.gif)
+![Coding GIF](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
 
 ### 🔧 Tech Stack
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
@@ -23,7 +23,6 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
 **🚀 Actively Seeking New Opportunities**  
 I am currently looking for new challenges where I can apply my MERN stack expertise and contribute to innovative projects. Eager to collaborate with forward-thinking teams, I’m ready to bring creativity and technical skill to impactful roles.
 
-![Searching GIF](https://media.giphy.com/media/l4FGpcc1VLPz2/giphy.gif)
 
 ### 🛠️ Projects
 - **[Connectify](https://github.com/Toheedullah-K3/contact-management-system)**  
@@ -32,7 +31,6 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 - **[CarConnect](https://github.com/Toheedullah-K3/car-connect)**  
   - **Description:** CarConnect is an advanced showroom management system engineered to optimize showroom operations. Utilizing the MERN stack, the application features a high-performance backend with Node.js and Express.js, paired with a responsive React frontend. CarConnect offers comprehensive vehicle inventory management, customer relationship tracking, and integrated analytics, all powered by a MongoDB database. This project exemplifies modern web development practices, including state management, API integration, and modular architecture.
 
-![Car GIF](https://media.giphy.com/media/3o7TKy59mO7WmcR8V6/giphy.gif)
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=compact&theme=radical)
@@ -50,7 +48,6 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 - I’m currently spending most of my day in bed using my mobile for social media. 📱
 - Always looking for interesting and unique project ideas to work on!
 
-![Fun GIF](https://media.giphy.com/media/3o6vXnYRL8cmytmgdC/giphy.gif)
 
 ---
 
