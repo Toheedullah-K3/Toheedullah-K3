@@ -4,6 +4,8 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
+![Coding GIF](https://media.giphy.com/media/1hLoxDdA1AwQowT6k9/giphy.gif)
+
 ### 🔧 Tech Stack
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs
@@ -21,12 +23,16 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
 **🚀 Actively Seeking New Opportunities**  
 I am currently looking for new challenges where I can apply my MERN stack expertise and contribute to innovative projects. Eager to collaborate with forward-thinking teams, I’m ready to bring creativity and technical skill to impactful roles.
 
+![Searching GIF](https://media.giphy.com/media/l4FGpcc1VLPz2/giphy.gif)
+
 ### 🛠️ Projects
 - **[Connectify](https://github.com/Toheedullah-K3/contact-management-system)**  
   - **Description:** Connectify is a robust contact management system designed to streamline the way users organize and manage their contacts. Built on the MERN stack, it leverages React for a dynamic user interface, Express.js and Node.js for scalable backend services, and MongoDB for efficient data storage. This project incorporates advanced CRUD operations, real-time data synchronization, and user authentication features to ensure a seamless user experience.
 
 - **[CarConnect](https://github.com/Toheedullah-K3/car-connect)**  
   - **Description:** CarConnect is an advanced showroom management system engineered to optimize showroom operations. Utilizing the MERN stack, the application features a high-performance backend with Node.js and Express.js, paired with a responsive React frontend. CarConnect offers comprehensive vehicle inventory management, customer relationship tracking, and integrated analytics, all powered by a MongoDB database. This project exemplifies modern web development practices, including state management, API integration, and modular architecture.
+
+![Car GIF](https://media.giphy.com/media/3o7TKy59mO7WmcR8V6/giphy.gif)
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=compact&theme=radical)
@@ -43,6 +49,8 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 ### ✨ Fun Facts
 - I’m currently spending most of my day in bed using my mobile for social media. 📱
 - Always looking for interesting and unique project ideas to work on!
+
+![Fun GIF](https://media.giphy.com/media/3o6vXnYRL8cmytmgdC/giphy.gif)
 
 ---
 
