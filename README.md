@@ -32,18 +32,17 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
   - Tech Stack: MERN, Tailwind CSS, etc.
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/toheed-ullah-khanx/)
+- [Twitter (X)](https://x.com/t_o_h_e_e_d__)
+- [Portfolio](#)
+
+### 📫 How to Reach Me
+- Email: toheedullah002@gmail.com
 
 ### ✨ Fun Facts
 - I’m currently spending most of my day in bed using my mobile for social media. 📱
 - Always looking for interesting and unique project ideas to work on!
 
-### 📫 How to Reach Me
-- Email: toheedullahkhan@example.com
-
 ---
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
