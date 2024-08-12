@@ -25,7 +25,10 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
 
 **🚀 Actively Seeking New Opportunities**  
 I am currently looking for new challenges where I can apply my MERN stack expertise and contribute to innovative projects. Eager to collaborate with forward-thinking teams, I’m ready to bring creativity and technical skill to impactful roles.
+
+<div style= "display: flex; justify-content: space-between;">
 <p align="left">
+  
 ### 🛠️ Projects
 - **[Connectify](https://github.com/Toheedullah-K3/contact-management-system)**  
   - **Description:** Connectify is a robust contact management system designed to streamline the way users organize and manage their contacts. Built on the MERN stack, it leverages React for a dynamic user interface, Express.js and Node.js for scalable backend services, and MongoDB for efficient data storage. This project incorporates advanced CRUD operations, real-time data synchronization, and user authentication features to ensure a seamless user experience.
@@ -36,7 +39,7 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheedullah-K3&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" width="35%">
 </p>
-
+</div>
  
 ### 📊 GitHub Stats
 <div align="center">
