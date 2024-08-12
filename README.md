@@ -4,8 +4,10 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
-<img align= "right" alt= "coding" width= "400" src= "https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 🔧 Tech Stack
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Database:** MongoDB, Mongoose
