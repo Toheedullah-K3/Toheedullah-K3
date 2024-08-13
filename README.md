@@ -4,7 +4,7 @@
 
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
-
+<img src= "https://www.flaticon.com/free-animated-icon/rocket_15557778" width="50">
 
 ### 🔧 Tech Stack
 
