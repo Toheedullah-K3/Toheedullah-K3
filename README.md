@@ -1,4 +1,4 @@
-# Hi there, I'm Toheed Ullah Khan! 👋     
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=92C73E&background=24281911&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Toheed+Ullah+Khan" alt="Typing SVG" />
     
 ## 🚀 Software Engineer | MERN Stack Specialist
   
