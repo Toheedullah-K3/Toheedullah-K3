@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=92C73E&background=24281911&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Toheed+Ullah+Khan;Solo+~+Full+Stack+Developer+%7C+Pakistan" alt="Typing SVG" />
 
+[banner](https://github.com/Toheedullah-K3/Toheedullah-K3/blob/main/1744893342558.png)
+
 ## 🚀 Software Engineer | MERN Stack Specialist
   
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
