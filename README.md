@@ -6,7 +6,7 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
 
 ### 🔧 Tech Stack
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs
