@@ -10,8 +10,8 @@ I'm a passionate software engineer with a strong focus on full-stack web develop
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
-- **Backend:** Node.js, Express.js, RESTful APIs
+- **Frontend:** React.js, HTML5, Tailwind CSS, Motion.dev, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, JWT, RESTful APIs
 - **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Postman, Vite, npm
