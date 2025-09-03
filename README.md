@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/Toheedullah-K3/Toheedullah-K3/blob/main/1744893342558.png)
 
-## 🚀 Software Engineer | MERN Stack Specialist
+## Software Engineer | MERN Stack Specialist
   
 I'm a passionate software engineer with a strong focus on full-stack web development using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating unique and user-friendly web applications, blending creativity with technical expertise.
 
