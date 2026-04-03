@@ -44,7 +44,7 @@ I am currently looking for new challenges where I can apply my MERN stack expert
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/toheed-ullah-khanx/)
 - [Twitter (X)](https://x.com/t_o_h_e_e_d__)
-- [Portfolio](https://toheed-dev-portfolio.vercel.app/)
+- [Portfolio](https://www.toheedullahkhan.com/)
 
 ### 📫 How to Reach Me
 - Email: toheedullah002@gmail.com
